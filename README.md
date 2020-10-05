@@ -2,7 +2,7 @@
 
 A playable Sudoku game with a UI with a **solve** feature that can solve any game using backtracking.
 
-Run GUI.py to play Sudoku.
+Run sudoku_GUI.py to play Sudoku.
 
 ### Instructions
 
