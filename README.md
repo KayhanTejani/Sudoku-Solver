@@ -1,8 +1,12 @@
 ## Sudoku Game & Solver
 
-A playable Sudoku game with a UI with a **solve** feature that can solve any game.
+A playable Sudoku game with a UI with a **solve** feature that can solve any game using backtracking.
 
-View the website [here](https://kayhantejani.github.io/Pathfinding-Visualizer/)
+Run GUI.py to play Sudoku.
+
+### Instructions
+
+Click a box and enter the number on your keybaord to pencil in a number. To confirm that number press the ENTER key. To delete a number in a box, you can press the DELETE key. Finally to solve the board, press SPACE and visualize the algorithm solve the board.
 
 ### Why build a solver?
 
